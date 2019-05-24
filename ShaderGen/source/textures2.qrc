@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/eyeball.png</file>
+        <file>textures/Leopard.png</file>
+        <file>textures/metalSheetDiffuse.png</file>
+        <file>textures/metalSheetNormal.png</file>
+        <file>textures/rust.png</file>
+        <file>textures/stonewallDiffuse.png</file>
+        <file>textures/stonewallNormal.png</file>
+    </qresource>
+</RCC>

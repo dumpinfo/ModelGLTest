@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/disk4/MotionDev/OpenGL/Example45/src/main.c
+stdio.h
+-
+GL/glus.h
+/disk4/MotionDev/OpenGL/Example45/src/GL/glus.h
+

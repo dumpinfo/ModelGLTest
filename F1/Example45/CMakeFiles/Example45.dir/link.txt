@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Example45.dir/src/main.c.o  -o Example45 -lGLUS 

@@ -1,0 +1,3 @@
+/disk4/MotionDev/OpenGL/Example45/CMakeFiles/edit_cache.dir
+/disk4/MotionDev/OpenGL/Example45/CMakeFiles/rebuild_cache.dir
+/disk4/MotionDev/OpenGL/Example45/CMakeFiles/Example45.dir
